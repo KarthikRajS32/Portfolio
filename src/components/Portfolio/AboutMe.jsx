@@ -40,8 +40,8 @@ const AboutMe = () => {
         <div className="w-full h-full rounded-full bg-[#020521] flex items-center justify-center">
           {/* Inner image */}
           <img
-            src="/Blackimg.jpg"
-            alt="Blackimg"
+            src="/karthi.jpg"
+            alt="karthi"
             className="w-105 h-105 rounded-full object-cover border-4 border-[#020521] "
           />
         </div>
